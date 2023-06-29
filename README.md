@@ -3,6 +3,7 @@ Ai-BlockChain is a private, closely held technology company that has developed a
 
 In our organization, we currently possess a sufficient number of web developers, designers, and AI developers. However, we have identified a shortage of blockchain developers, which is hindering our progress in that particular field.
 
+
 ## Objective
 The primary goal is to assist us in selecting a highly skilled blockchain developer who possesses extensive expertise in web3 and smart contract development.
 
