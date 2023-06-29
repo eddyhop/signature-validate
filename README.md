@@ -22,8 +22,8 @@ The server is just a template within Node.js, Express and Mongoose.
 
 
 ### Requirement 
-Create an endpoint to process verification the transaction made with Metamask wallet and the text.
-The requested object is like followings:
+Develop an endpoint that facilitates the signing process using Metamask, ensuring the verification of transactions made by the Metamask wallet and the accompanying subtext.
+The object included in the client's request is as follows.
 
 ```bash
   {
