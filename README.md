@@ -1,4 +1,4 @@
-## Company
+## [Ai-Blockchain](https://www.linkedin.com/company/aiblockchain/)
 Ai-BlockChain is a private, closely held technology company that has developed a payment cloud blockchain platform. Our technology utilizes AI agents, known as Super Peers, to create and maintain the distributed ledger, instead of the classic blockchain contract consensus secured by expensive, dedicated mining hardware.
 
 In our organization, we currently possess a sufficient number of web developers, designers, and AI developers. However, we have identified a shortage of blockchain developers, which is hindering our progress in that particular field.
