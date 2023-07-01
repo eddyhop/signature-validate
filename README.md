@@ -1,7 +1,6 @@
-## [Ai-Blockchain](https://www.linkedin.com/company/aiblockchain/)
-Ai-BlockChain is a private, closely held technology company that has developed a payment cloud blockchain platform. Our technology utilizes AI agents, known as Super Peers, to create and maintain the distributed ledger, instead of the classic blockchain contract consensus secured by expensive, dedicated mining hardware.
-
-In our organization, we currently possess a sufficient number of web developers, designers, and AI developers. However, we have identified a shortage of blockchain developers, which is hindering our progress in that particular field.
+## [Blockchain Acuity](https://blockchainacuity.com/)
+Blockchain Acuity is a full stack software development firm and consultancy that helps businesses develop sound strategies for leveraging blockchain and distributed ledger technology.
+With a strong focus on product development we can encapsulate entire industry verticals using Internet Of Things sensors, Blockchain As A Service, custom APIs and mobile apps.
 
 
 ## Objective
