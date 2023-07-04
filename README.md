@@ -22,12 +22,12 @@ The server is just a template within Node.js, Express and Mongoose.
 
 
 ### Requirement 
-Develop an endpoint that facilitates the signing process using Metamask, ensuring the verification of transactions made by the Metamask wallet and the accompanying subtext.
+Develop an endpoint that facilitates the signing process using Metamask, ensuring the verification of signature made by the Metamask wallet and the accompanying subtext.
 The object included in the client's request is as follows.
 
 ```bash
   {
-    "transaction": "0x.....",
+    "signature": "0x.....",
     "walletAddress": "0x.....",
     "text": "Hello, Metamask"
   }
